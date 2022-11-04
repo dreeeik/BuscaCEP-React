@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BuscaCEP-React/static/css/main.47f8f49c.css",
+    "main.js": "/BuscaCEP-React/static/js/main.8e3f03f9.js",
+    "index.html": "/BuscaCEP-React/index.html",
+    "main.47f8f49c.css.map": "/BuscaCEP-React/static/css/main.47f8f49c.css.map",
+    "main.8e3f03f9.js.map": "/BuscaCEP-React/static/js/main.8e3f03f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f8f49c.css",
+    "static/js/main.8e3f03f9.js"
+  ]
+}
